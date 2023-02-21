@@ -1,5 +1,5 @@
 # Customer Relationship Managment (CRUD)
-Full-stack Web Application using Angular &amp; SpringBoot (RestFull API).
+Full-stack Web Application using Angular &amp; SpringBoot (RestFul API).
 
 ![Status started](https://img.shields.io/badge/Status-Started-blue.svg)
 
